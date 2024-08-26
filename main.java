@@ -1,4 +1,5 @@
 // Romy Ortiz Romero, Luan Dematos - 8/25/24 - Unit 0 Project 
+//The initials "ROR" are spelled out in the blank spaces of the text using the initials "LD".
 public class Main {
   public static void main(String[] args) 
   { 
